@@ -1,4 +1,4 @@
-##TP Web : Javascript et HTML5
+## TP Web : Javascript et HTML5
 
 Pour ce TP, toutes les classes et méthodes ont été remplies comme demandé.
 
